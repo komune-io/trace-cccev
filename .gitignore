@@ -2,7 +2,6 @@
 **/build/
 !gradle/wrapper/gradle-wrapper.jar
 .env
-storybook-static
 infra/dev
 infra/docker-compose/infra/
 
