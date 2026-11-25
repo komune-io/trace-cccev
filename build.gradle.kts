@@ -31,9 +31,6 @@ fixers {
 		description = "Kotlin implementation of Core Criterion and Core Evidence Vocabulary"
 		url = "https://github.com/komune-io/connect-cccev"
 	}
-	d2 {
-		outputDirectory = file("storybook/stories/d2/")
-	}
 	kt2Ts {
 		outputDirectory = "web/kotlin"
 	}
